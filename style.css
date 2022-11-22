@@ -5,3 +5,7 @@
 .bg-red {
   background-color: indianred;
 }
+
+.border-simple {
+  border: 1px solid black;
+}
